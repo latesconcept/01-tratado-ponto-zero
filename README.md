@@ -8,3 +8,7 @@ Integral, partes 1 e 2. Fonte canônica, sem edições.
 | TRATADO...PART2.docx | `BB961F95FABB397C41E40942FF97B978AFC75BC0A7CEF2DEF85BD2EAAE23D7B6` |
 
 Licença: CC BY-SA 4.0 · v1.0 · 24/11/2026 · [← organização](../README.md)
+
+---
+**Natureza do material:** ficção especulativa e método de investigação aberta. Não é instrução de engenharia pronta nem orientação de saúde; quem aplica aplica por sua conta — e registra, como manda o cânon: previsão antes, nulo lastreado depois.
+
